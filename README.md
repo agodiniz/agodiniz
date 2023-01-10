@@ -24,7 +24,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="[https://linkedin.com/in/maykbrito](https://www.linkedin.com/in/tiago-diniz/)" target="_blank">
+<a href="[https://linkedin.com/in/agodiniz](https://www.linkedin.com/in/tiago-diniz/)" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-matos-oliveira-869a18179/r)
 </p>
