@@ -24,6 +24,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="[https://linkedin.com/in/agodiniz](https://www.linkedin.com/in/tiago-diniz/)" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/tiago-diniz/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </p>
