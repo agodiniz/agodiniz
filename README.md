@@ -25,5 +25,5 @@
 
 <p align="left" style="background:yellow">
 <a href="[https://linkedin.com/in/maykbrito](https://www.linkedin.com/in/tiago-diniz/)" target="_blank">
-  <img align="center" src="https://media.licdn.com/dms/image/C4D03AQElShoOKYPh8Q/profile-displayphoto-shrink_800_800/0/1663702371093?e=1678924800&v=beta&t=W7RRVJN8lRMkoZilagT7FFVVGsEuSW7Q_SfMwkpRBpk" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </p>
