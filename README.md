@@ -1,11 +1,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tiago Diniz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 UX Engineer focused on bringing a balance between the design and engineering team (Front-end), making team collaboration more effective.
+- 🔥 Como UX Engineer ajudo projetar e construir produtos escaláveis. Colaboro com designers, engenheiros e stackeholders para melhorar as experiências das pessoas com os nossos produtos e serviços.
 
-- 🔭 I’m currently working at [Suflex](suflex.com.br)
+Certificado em UX pelo Google e em Front-end pelo Meta, com 4 anos de experiência. Trabalhei em produtos para empresas do Reino Unido e do Brasil.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Design System**
+Design técnico | Revisões de código com foco em usabilidade | Sessões de Design Sprint | Design System | Pesquisa e recomendações de componentes e recursos | System Design | Codificação de prótotipos | Oportunidade e riscos de produto | Handoff | Teste de usabilidade | Research | Comunicação entre Design e Desenvolvimento
+
+- 🔭 Atualmente trabalho na [Suflex](suflex.com.br)
+
+- 💬 Posso contribuir com **JavaScript, React, Next, and Design System**
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
@@ -20,7 +24,7 @@
 
 <br><br>
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/tiago-diniz/" target="_blank">
