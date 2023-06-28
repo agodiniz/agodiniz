@@ -1,7 +1,7 @@
-<h1 align="left">Tiago Diniz</h1>
+<h1 align="left">Tiago Diniz - UX Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Como UX Engineer ajudo projetar e construir produtos escaláveis. Colaboro com designers, engenheiros e stackeholders para melhorar as experiências das pessoas com os nossos produtos e serviços.
+- 🔥 Ajudo projetar e construir produtos escaláveis. Colaboro com designers, engenheiros e stackeholders para melhorar as experiências das pessoas com os nossos produtos e serviços.
 
 Certificado em UX pelo Google e em Front-end pelo Meta, com 4 anos de experiência. Trabalhei em produtos para empresas do Reino Unido e do Brasil.
 
